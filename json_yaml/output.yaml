@@ -1,0 +1,9 @@
+address:
+  city: London
+  country: UK
+age: 25
+hobbies:
+- reading
+- coding
+- gaming
+name: Alice
